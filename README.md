@@ -5,7 +5,7 @@ image is being cropped
 histogram normalisation is done (equ = cv2.equalizeHist(gray))
 noise removal is done ( final = cv2.medianBlur(equ, 3))
 
-    and images is saved to gray_images
+    and images are saved to gray_images
 
     further these images are being trained and .yml is obtained
 
